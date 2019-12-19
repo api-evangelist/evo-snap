@@ -1,0 +1,75 @@
+{
+    "name": "Evo Snap",
+    "description": "<p>Snap helps developers simplify payment acceptance &amp; business operations for merchants and their customers. EVO Snap* empowers developers to create customized, multi-channel commerce applications &amp; services to support their customers across traditional POS, mobile and eCommerce touch points. Snap* streamlines the inclusion of multiple payment and value-added services via one integration, and delivers bundles of services to developers through one family of APIs.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2172-evo-snap*.jpg",
+    "tags": [
+        "api provider",
+        "has api",
+        "have api",
+        "no api definition",
+        "payments"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/evo-snap\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Evo Snap",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2172-evo-snap*.jpg",
+            "humanURL": "http:\/\/www.evosnap.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/evo-snap-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/evo-snap-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "About",
+            "url": "https:\/\/www.evosnap.com\/about-snap\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/evo-snap"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/evo-snap"
+        },
+        {
+            "type": "Email",
+            "url": "info@evosnap.com"
+        },
+        {
+            "type": "Getting Started",
+            "url": "https:\/\/www.evosnap.com\/get-started\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/evo-snap"
+        },
+        {
+            "type": "Partners",
+            "url": "https:\/\/www.evosnap.com\/partner-with-us\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/canyousnap"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.evosnap.com\/"
+        }
+    ]
+}
